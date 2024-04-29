@@ -18,3 +18,5 @@
 - Creating AKS cluster on Azure
 - Configuring Virtual Machine Scale Sets as Node pools in AKS
 
+Full Code: https://dev.azure.com/noorulashkar62/_git/voting-app
+
