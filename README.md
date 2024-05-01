@@ -1,5 +1,10 @@
 # AzureDevOps-CI-CD
 
+# My Responsibilities
+- Architected and implemented a robust build and deployment pipeline for a sample voting application consisting of three microservices: Voting, Results, and Worker.
+- Utilized Docker for containerization and Azure Container Registry (ACR) as the centralized repository for Docker images.
+- For deployment, integrated GitOps principles using Argo CD, ensuring declarative configuration management and continuous deployment to the Azure Kubernetes Service (AKS) cluster.
+
 
 ## Azure DevOps - CI Setup
 - Implementing Continuous Integration (CI)
